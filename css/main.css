@@ -1,0 +1,20 @@
+.caja{
+	background-color: #6F6868;
+	width: 100px;
+	height: 100px;
+	margin: 8px;
+	border: 1px solid black;
+}
+
+.linea{	
+	display: inline-block;
+}
+
+.contenedor{
+	background-color: #6F6868;
+	width: 370px;
+	height: 120px;
+	margin: 5px;
+	border: 1px solid black;
+	padding: 8px;	
+}
